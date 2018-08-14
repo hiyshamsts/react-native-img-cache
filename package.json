@@ -11,24 +11,18 @@
     "test": "npm run lint && npm run build",
     "release": "semantic-release pre && npm publish && semantic-release post"
   },
-  "files": [
-    "build"
-  ],
+  "files": ["build"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wcandillon/react-native-img-cache.git"
+    "url": "https://github.com/hiyshamsts/react-native-img-cache.git"
   },
-  "keywords": [
-    "react",
-    "image",
-    "cache"
-  ],
-  "author": "William Candillon <wcandillon@gmail.com>",
+  "keywords": ["react", "image", "cache"],
+  "author": "hiyshamsts <hiysham@mocaz.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/wcandillon/react-native-img-cache/issues"
+    "url": "https://github.com/hiyshamsts/react-native-img-cache/issues"
   },
-  "homepage": "https://github.com/wcandillon/react-native-img-cache#readme",
+  "homepage": "https://github.com/hiyshamsts/react-native-img-cache#readme",
   "devDependencies": {
     "@types/react": "^16.0.5",
     "@types/react-native": "^0.49.2",
